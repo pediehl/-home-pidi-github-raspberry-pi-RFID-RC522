@@ -68,4 +68,4 @@ sudo python Read.py
 
 Sobald die Chipkarte über die Sensorfläche gehalten wird und erkannt wird, sieht man eine Ausgabe wie die folgende:
 
-![](images/Bildschirmfoto vom 2018-01-07 12-10-07.png)
+![](images/Bildschirmfoto_vom_2018-01-07_12-10-07.png)
