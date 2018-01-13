@@ -64,7 +64,7 @@ Zum RC522 Modul werden meistens eine weiße Karte sowie ein NFC fähiger Schlüs
 
 Für einen ersten Test starten wir das erste Beispiel:
 
-sudo python Read.py
+python Read.py
 
 Sobald die Chipkarte über die Sensorfläche gehalten wird und erkannt wird, sieht man eine Ausgabe wie die folgende:
 
